@@ -1,0 +1,26 @@
+.heading {
+    width: 60%;
+font-size: 25px;
+}
+body {
+    background-image: linear-gradient(to right top, #1b85ba, #529ae2, #3983a7, #5db5b5, #1083d0);
+}
+.Things {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: serif;
+}
+#camera {
+    border: rgb(0, 0, 0);
+    border-width: 3px;
+    border-style:groove;
+    width: 350px;
+    height: 350px;
+}
+#result {
+    border: rgb(0, 0, 0);
+    border-width: 3px;
+    border-style:groove;
+    width: 350px;
+    height: 350px;
+}
